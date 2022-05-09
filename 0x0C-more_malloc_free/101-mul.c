@@ -25,7 +25,7 @@ int find_len(char *str)
 }
 /**
  * create_xarray - Creates an array of chars and initializes it with
- *                 the character 'x'. Adds a terminating null byte.
+ *                  the character 'x'. Adds a terminating null byte.
  * @size: The size of the array to be initialized.
  *
  * Description: If there is insufficient space, the
